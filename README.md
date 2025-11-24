@@ -4,7 +4,7 @@ CTNet is a novel object detection framework tailored for remote sensing imagery,
  Project Overview
 This repository implements CTNet, which introduces:
 
-CTBC (Concurrent Two-branch Contextual Attention)
+CTBC (Concurrent Two-branch Contextual Attention Mechanism)
 → Embedded in Bottleneck blocks to jointly enhance channel and spatial attention.
 DCFOConv (Dual-Core Feature Optimization Convolution)
 → Replaces standard convolutions in the Neck to capture multi-scale contextual information.
